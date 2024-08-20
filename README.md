@@ -73,7 +73,6 @@ npm start
 
 <summary>Terminal Output example</summary>
 
-### You can add a header
 ```bash
    jersk@sjesk:~/p2ps-token-analysis$ npm start
 
