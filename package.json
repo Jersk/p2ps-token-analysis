@@ -1,0 +1,32 @@
+{
+  "name": "p2ps-token-analysis",
+  "version": "1.0.0",
+  "description": "Analysis and attempt to transfer P2P Solutions Foundation (P2PS) tokens from a compromised wallet using Flashbots.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ethers": "^6.7.1",
+    "@flashbots/ethers-provider-bundle": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jersk/p2ps-token-analysis.git"
+  },
+  "keywords": [
+    "ethereum",
+    "smart-contract",
+    "P2PS",
+    "flashbots",
+    "ethers.js",
+    "token-transfer"
+  ],
+  "author": "Jersk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jersk/p2ps-token-analysis/issues"
+  },
+  "homepage": "https://github.com/Jersk/p2ps-token-analysis#readme"
+}
